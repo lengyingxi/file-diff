@@ -1,0 +1,8 @@
+services:
+  file-diff:
+    build: .
+    container_name: file-diff-tool
+    ports:
+      - "8080:80"
+    restart: unless-stopped
+
