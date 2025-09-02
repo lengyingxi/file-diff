@@ -9,8 +9,9 @@
 3. 文档更新追溯：核对产品说明书、接口文档的迭代版本，明确功能变更点。
 
 粘贴文本（支持 TXT、Markdown、代码片段等格式），系统自动标红删除内容、标绿新增内容、标黄修改内容，差异处一目了然；
+<img width="2217" height="1245" alt="image" src="https://github.com/user-attachments/assets/26779343-0a4d-44de-bb70-757a01977700" />
 
-![image-20250902174633107](D:\Software\Typora\Typora picture\image-20250902174633107.png)
+
 
 # 部署流程
 
@@ -30,5 +31,6 @@
 [root@server file-diff]# 
 [root@server file-diff]# docker-compose up -d
 ```
+<img width="1617" height="738" alt="image" src="https://github.com/user-attachments/assets/85db4a4f-4f4b-470b-86ec-c2d139f073fc" />
 
-![image-20250902175027508](D:\Software\Typora\Typora picture\image-20250902175027508.png)
+
